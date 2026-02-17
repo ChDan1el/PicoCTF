@@ -2,6 +2,8 @@
 
 > Dica: The flag is in the format PICOCTF{}
 
+##### [Link do desafio](https://play.picoctf.org/practice/challenge/68?category=2&page=1)
+
 ## Passo a Passo
 
 Ao baixar a imagem fornecida pelo desafio, é possível visualizar uma sequência de números organizada em dois grupos]
@@ -22,3 +24,9 @@ Seguindo essa lógica, basta substituir cada número pela letra correspondente �
 Aplicando essa conversão a toda a sequência numérica da imagem, obtemos a *flag*
 
 ## FLAG: PICOCTF{THENUMBERSMASON}
+
+### Conclusão
+
+Este é um ótimo desafio introdutório de criptografia. Apesar de ser bastante simples, ele demonstra como uma mensagem, após ser codificada, pode se tornar ilegível.
+
+Assim, apenas quem conhece o método de decodificação (ou a “chave”) consegue acessar o conteúdo original.
