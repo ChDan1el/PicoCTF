@@ -51,6 +51,11 @@ Por fim, ao inserir a última resposta, o servidor retornou a *flag* do desafio.
 
 ## FLAG: picoCTF{UseStr0nG_h@shEs_&PaSswDs!_6965e43b}
 
+### Conclusão
+
+Este desafio mostra como hashes podem ser facilmente quebrados quando utilizam algoritmos fracos ou senhas comuns. Ele reforça a importância de adotar boas
+práticas no armazenamento de credenciais e utilizar métodos mais seguros para garantir a proteção das informações.
+
 
 
 
