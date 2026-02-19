@@ -1,11 +1,12 @@
-Introdução
+# Cookie Monster Secret Recipe
 
-Este é um desafio para iniciantes sobre exploração de websites, retirado do site [picoCTF](https://play.picoctf.org).
+This challenge is about web exploration, main in cookies
 
-[Página do desafio](https://play.picoctf.org/practice/challenge/469)
+##### [Link do desafio](https://play.picoctf.org/practice/challenge/469)
 
-O enunciado gira em torno da análise da ferramenta de inspeção de páginas, com foco na 
-funcionalidade dos [cookies](https://www.kaspersky.com.br/resource-center/definitions/cookies)
+## Step by Step
+
+Following the text of challenge, my first step was inspect the HTML to find a  [cookies](https://www.kaspersky.com.br/resource-center/definitions/cookies)
 
 Passo a passo da resolução
 
